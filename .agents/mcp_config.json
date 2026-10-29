@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "familyverse-mcp": {
+      "command": "node",
+      "args": ["mcp/server.js"]
+    }
+  }
+}
+
